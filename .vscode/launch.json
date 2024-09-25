@@ -2,6 +2,13 @@
   "version": "0.2.0",
   "configurations": [
     {
+      "type": "java",
+      "name": "Principal",
+      "request": "launch",
+      "mainClass": "plp.enquanto.Principal",
+      "projectName": "while_7b03a28f"
+    },
+    {
       "name": "Executar este programa",
       "request": "launch",
       "command": "java -jar while.jar ${file}",
